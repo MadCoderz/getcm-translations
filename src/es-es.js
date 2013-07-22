@@ -3,7 +3,7 @@
 
   _.extend(getcm.locales, { "es-ES": {
     navbar: {
-      about:"Sobre",
+      about:"Acerca de",
       download:"Descargar",
       devices:"Dispositivos",
       blog:"Blog",
